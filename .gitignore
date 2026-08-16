@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Downloaded media and partial files
+*.mp4
+*.mov
+*.mkv
+*.m4a
+*.webm
+*.part
+*.ytdl
+downloads/
+
+# Credentials, browser data, and logs
+cookies*.txt
+*cookie*.sqlite
+*.log
+load_log

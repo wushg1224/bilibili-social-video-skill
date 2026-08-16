@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Social Video Downloader"
+  short_description: "Download authorized Bilibili videos for editing"
+  default_prompt: "Use $download-bilibili-video to inspect or download this authorized Bilibili video as an editing-friendly MP4."
